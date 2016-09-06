@@ -1,2 +1,7 @@
 # 5303-AdvDB-Kundert
-For use in 5303 Advanced Database Management
+
+![my face](https://github.com/StevOK/5303-AdvDB-Kundert/blob/master/Steven%20Kundert%20image.jpg?raw=true "My face")
+
+Steven Kundert
+
+stevenkundert@yahoo.com
